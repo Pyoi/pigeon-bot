@@ -4,7 +4,8 @@
  Python　3.10以上推奨
 discord.py
 python-dotenv
-#　インストール
+
+##　インストール
 bash
 pip install -r requirements.txt
 
