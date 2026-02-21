@@ -5,16 +5,16 @@
 discord.py
 python-dotenv
 
-##　インストール
+# インストール
 bash
 pip install -r requirements.txt
 
-#　設定
+# 設定
 DISCORD_TOKEN = あなたのBotトークン
 PIGEON_CHANNEL_ID= 対象チャンネルのID
 ディスコード設定→詳細設定→開発者モードをオンにして、対象チャンネルを右クリックして、ＩＤをコピーしてください。
-#　起動
+# 起動
 python bot.py
 
-#　注意！
+# 注意！
 Ｂｏｔトークンは、公開しないでください！.env もアップロードしないでください
